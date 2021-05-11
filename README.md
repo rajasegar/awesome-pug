@@ -62,6 +62,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 
 ## Converters
+- [html2jade.org](http://html2jade.org/) - Realtime online converter.
 - [html2pug](https://github.com/donpark/html2jade)
 - [pug2php](https://github.com/SE7ENSKY/jade2php)
 
