@@ -33,6 +33,9 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Silex (implementation example)](https://gist.github.com/kylekatarnls/ba13e4361ab14f4ff5d2a5775eb0cc10)
 - [Rails](https://github.com/yivo/pug-rails)
 
+### Boilerplates
+- [Alaska](https://github.com/pixelsbyeryc/alaska) - :gear: Static site boilerplate. Using Gulp, PugJS, and Sass.
+
 
 ## Books
 - [Programming Web Applications with Node, Express and Pug](https://www.apress.com/gp/book/9781484225103)
