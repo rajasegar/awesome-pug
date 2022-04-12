@@ -7,6 +7,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Contents
 - [Websites](#websites)
 - [Tools](#tools)
+  - [Frameworks](#frameworks)
+  - [Boilerplates](#boilerplates)
 - [Books](#books)
 - [Posts](#posts)
 - [Videos](#videos)
