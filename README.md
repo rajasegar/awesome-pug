@@ -7,6 +7,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Contents
 - [Websites](#websites)
 - [Tools](#tools)
+  - [Frameworks](#frameworks)
+  - [Boilerplates](#boilerplates)
 - [Books](#books)
 - [Posts](#posts)
 - [Videos](#videos)
@@ -32,6 +34,9 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Slim 3](https://github.com/pug-php/pug-slim)
 - [Silex (implementation example)](https://gist.github.com/kylekatarnls/ba13e4361ab14f4ff5d2a5775eb0cc10)
 - [Rails](https://github.com/yivo/pug-rails)
+
+### Boilerplates
+- [Alaska](https://github.com/pixelsbyeryc/alaska) - :gear: Static site boilerplate. Using Gulp, PugJS, and Sass.
 
 
 ## Books
