@@ -43,6 +43,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Programming Web Applications with Node, Express and Pug](https://www.apress.com/gp/book/9781484225103)
 
 ## Posts
+- [How I set up TailwindCSS with PugJS](https://mukhtar.hashnode.dev/how-i-set-tailwindcss-up-with-pugjs)
 - [Learning the Jade Templating Engine Syntax](https://cssdeck.com/labs/learning-the-jade-templating-engine-syntax)
 - [Jade Templating Tutorial Codecast - Part 2](https://cssdeck.com/labs/jade-templating-tutorial-codecast-part-2)
 - [Jade FTW](https://gist.github.com/japboy/5402844) - Jade tutorial in Japanese.
